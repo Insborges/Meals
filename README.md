@@ -1,16 +1,22 @@
-# meals
+# Meals App em Flutter
 
-A new Flutter project.
+**Meals App** é um aplicativo desenvolvido em Flutter que permite aos utilizadores explorar uma variedade de refeições e receitas. Com funcionalidades de filtragem (como refeições sem glúten, sem lactose, etc.), os utilizadores podem personalizar sua experiência e salvar suas receitas favoritas para acesso rápido. Este projeto foi criado como parte de um curso de Flutter, com o objetivo de praticar e aprimorar habilidades no desenvolvimento de aplicativos móveis multiplataforma.
 
-## Getting Started
+## 🛠️ Construído com
+     - Flutter - Framework para desenvolvimento de aplicativos multiplataforma.
+     - Dart - Linguagem de programação utilizada pelo Flutter.
+     - Visual Studio Code - Editor de código com suporte a Flutter através de extensões.
 
-This project is a starting point for a Flutter application.
+## 📌 Funcionalidades
+     - Explorar Receitas: Navegue por uma variedade de refeições e receitas.
+     - Filtros Personalizados: Filtre refeições por categorias como sem glúten, sem lactose, vegetarianas, etc.
+     - Favoritos: Adicione receitas aos favoritos para acessá-las facilmente no futuro.
+     - Interface Intuitiva: Design moderno e fácil de usar, com navegação fluida.
 
-A few resources to get you started if this is your first Flutter project:
+## ✒️ Autores
+Inês Borges - Desenvolvedora - Insborges |
+Maximilian Schwarzmüller - Instrutor 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎁 Agradecimentos
+    Agradeço ao curso de Flutter que serviu como base para este projeto.
+    Um agradecimento especial à comunidade Flutter por fornecer recursos e suporte incríveis.
